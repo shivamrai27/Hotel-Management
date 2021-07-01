@@ -1,3 +1,4 @@
 # Hotel-Management
-Click on branches 
-and you will see Master or main branch now there is the file
+#Click on branches option 
+#and you will see Active Branch section
+#in active brach section click on Master
