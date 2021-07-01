@@ -1,2 +1,3 @@
 # Hotel-Management
-Click on branches and Master branch you will get file
+Click on branches 
+and you will see Master or main branch now there is the file
